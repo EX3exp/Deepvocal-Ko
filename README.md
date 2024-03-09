@@ -4,7 +4,7 @@
 
 ## 📕1. Deepvocal2 한국어 패치
 - 딥보컬 ui의 한국어 패치에요.
-- 📁[다운로드](https://github.com/EX3exp/Deepvocal-Ko/releases/latest/download/Korean_1.0.txt)
+- 📁[한국어 패치 다운로드하기](https://github.com/EX3exp/Deepvocal-Ko/releases/latest/download/Korean_1.0.txt)
   
 > [아니아나님의 한국어 패치가 취향이시라면 이쪽으로](https://m.blog.naver.com/aniana00/221696043896)
 
