@@ -3,9 +3,17 @@
 
 
 ## 📕1. Deepvocal2 한국어 패치
-- [아니아나님의 한국어 패치가 취향이시라면 이쪽](https://m.blog.naver.com/aniana00/221696043896)
+- 📁[다운로드](https://github.com/EX3exp/Deepvocal-Ko/releases/latest/download/Korean_1.0.txt)
+  
+> [아니아나님의 한국어 패치가 취향이시라면 이쪽으로](https://m.blog.naver.com/aniana00/221696043896)
+
+
+https://github.com/EX3exp/Deepvocal-Ko/assets/100339835/817bcde3-faf1-48a4-badd-cb32d2e412bd
+
+
+
 ### 🤔1-1. 한국어 패치 적용법
-1. `Korean_X.X.txt`를 다운받아요. [다운로드 바로가기]()
+1. `Korean_X.X.txt`를 다운받아요. [다운로드 바로가기](https://github.com/EX3exp/Deepvocal-Ko/releases/latest/download/Korean_1.0.txt)
 <br>
 2. 딥보컬이 설치된 폴더 속에서 `language`폴더를 찾으세요.
    
@@ -21,7 +29,8 @@
 > ![image](https://github.com/EX3exp/Deepvocal-Ko/assets/100339835/113a8646-eb97-480a-a094-2882ae736d74)
 > ![ddddddd](https://github.com/EX3exp/Deepvocal-Ko/assets/100339835/c2231dcb-654f-4bbf-9f28-633078e4a14e)
 <br>
-5. 이제 친절해진 딥보컬과 마음껏 놀아봅시다. 
-   
+
+5. 이제 ~~귀여워진~~ 딥보컬과 마음껏 놀아봅시다. 
+
 > ![image](https://github.com/EX3exp/Deepvocal-Ko/assets/100339835/33e92b1b-eb76-4c5b-b105-604fe606e2d6)
 
