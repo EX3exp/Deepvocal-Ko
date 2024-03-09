@@ -1,5 +1,7 @@
 from tkinter import filedialog
- 
+
+#dvcfg를 넣으면 쉼표로 연결된 모델 목록을 출력해 주는 스크립트
+
 file_path = filedialog.askopenfilename(title="select dvcfg")
 
 with open(file_path, 'r', encoding='utf-8') as f:
