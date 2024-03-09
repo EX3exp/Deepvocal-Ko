@@ -3,6 +3,7 @@
 
 
 ## 📕1. Deepvocal2 한국어 패치
+- 딥보컬 ui의 한국어 패치에요.
 - 📁[다운로드](https://github.com/EX3exp/Deepvocal-Ko/releases/latest/download/Korean_1.0.txt)
   
 > [아니아나님의 한국어 패치가 취향이시라면 이쪽으로](https://m.blog.naver.com/aniana00/221696043896)
@@ -13,7 +14,7 @@ https://github.com/EX3exp/Deepvocal-Ko/assets/100339835/817bcde3-faf1-48a4-badd-
 
 
 ### 🤔1-1. 한국어 패치 적용법
-1. `Korean_X.X.txt`를 다운받아요. [다운로드 바로가기](https://github.com/EX3exp/Deepvocal-Ko/releases/latest/download/Korean_1.0.txt)
+1. `Korean_X.X.txt`를 다운받아요. [다운로드 링크 바로가기](https://github.com/EX3exp/Deepvocal-Ko/releases/latest/download/Korean_1.0.txt)
 <br>
 2. 딥보컬이 설치된 폴더 속에서 `language`폴더를 찾으세요.
    
